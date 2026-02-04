@@ -1,8 +1,8 @@
 {
   "devices": {
     "GL130_3": {
-      "version": "2.6",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL130_3/main/2.6.bin",
+      "version": "2.7",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL130_3/main/2.7.bin",
       "force": false
     }
   }
